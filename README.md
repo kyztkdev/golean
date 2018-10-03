@@ -1,0 +1,2 @@
+# golean
+go lang start
